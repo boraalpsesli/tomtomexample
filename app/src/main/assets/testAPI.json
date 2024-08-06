@@ -1,0 +1,661 @@
+{
+  "summary": {
+    "query": "istanbul",
+    "queryType": "NON_NEAR",
+    "queryTime": 138,
+    "numResults": 10,
+    "offset": 0,
+    "totalResults": 100,
+    "fuzzyLevel": 1,
+    "queryIntent": []
+  },
+  "results": [
+    {
+      "type": "Geography",
+      "id": "GybhmD4Jt4AUT-mpUSnqoQ",
+      "score": 2.872004509,
+      "entityType": "Municipality",
+      "address": {
+        "municipality": "Istanbul",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "Istanbul"
+      },
+      "position": {
+        "lat": 41.012995,
+        "lon": 28.974797
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 41.58404,
+          "lon": 27.97142
+        },
+        "btmRightPoint": {
+          "lat": 40.79006,
+          "lon": 29.95865
+        }
+      },
+      "boundingBox": {
+        "topLeftPoint": {
+          "lat": 41.584038,
+          "lon": 27.97142
+        },
+        "btmRightPoint": {
+          "lat": 40.790059,
+          "lon": 29.958649
+        }
+      },
+      "dataSources": {
+        "geometry": {
+          "id": "00005452-3300-3c00-0000-0000269fc22e"
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "6pQdnWOwE9o62cyOa5moEw",
+      "score": 2.1365046501,
+      "info": "search:ta:792008000012800-TR",
+      "poi": {
+        "name": "Istanbul Airport",
+        "categorySet": [
+          {
+            "id": 7383002
+          }
+        ],
+        "url": "www.igairport.com",
+        "categories": [
+          "airport",
+          "public authority"
+        ],
+        "classifications": [
+          {
+            "code": "AIRPORT",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "airport"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "public authority"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "1",
+        "streetName": "8034. Sokak",
+        "municipality": "Istanbul",
+        "municipalitySecondarySubdivision": "İmrahor",
+        "postalCode": "34275",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "İmrahor, 8034. Sokak 1, 34275Istanbul, Istanbul,",
+        "localName": "Istanbul"
+      },
+      "position": {
+        "lat": 41.260486,
+        "lon": 28.742623
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 41.3244,
+          "lon": 28.69869
+        },
+        "btmRightPoint": {
+          "lat": 41.24136,
+          "lon": 28.8646
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 41.25921,
+            "lon": 28.74312
+          }
+        }
+      ],
+      "dataSources": {
+        "geometry": {
+          "id": "ef7d9b6c-8ec2-4bf6-9ab7-d8d9d28b2633"
+        }
+      }
+    },
+    {
+      "type": "POI",
+      "id": "5RVde5g25Sg6U2RhSIhrqQ",
+      "score": 2.1244060993,
+      "info": "search:ta:276007000414071-DE",
+      "poi": {
+        "name": "Klein Istanbul",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "19",
+        "streetName": "G2",
+        "municipalitySubdivision": "Innenstadt/Jungbusch",
+        "municipality": "Mannheim",
+        "countrySecondarySubdivision": "Mannheim",
+        "countrySubdivision": "Baden-Württemberg",
+        "countrySubdivisionName": "Baden-Württemberg",
+        "countrySubdivisionCode": "BW",
+        "postalCode": "68159",
+        "countryCode": "DE",
+        "country": "Deutschland",
+        "countryCodeISO3": "DEU",
+        "freeformAddress": "G2 19, 68159 Mannheim",
+        "localName": "Mannheim"
+      },
+      "position": {
+        "lat": 49.490462,
+        "lon": 8.467539
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 49.49136,
+          "lon": 8.46615
+        },
+        "btmRightPoint": {
+          "lat": 49.48956,
+          "lon": 8.46892
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 49.49055,
+            "lon": 8.46647
+          }
+        },
+        {
+          "type": "main",
+          "position": {
+            "lat": 49.49034,
+            "lon": 8.46703
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "EgA19c7szhEQtBY0k38cuA",
+      "score": 2.1244060993,
+      "info": "search:ta:792007000921451-TR",
+      "poi": {
+        "name": "Proto Istanbul",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Ayçiçeği Sokak",
+        "municipalitySubdivision": "Avcılar",
+        "municipality": "İstanbul",
+        "municipalitySecondarySubdivision": "Tahtakale",
+        "postalCode": "34320",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "Tahtakale, Ayçiçeği Sokak, 34320Avcılar, İstanbul,",
+        "localName": "Avcılar"
+      },
+      "position": {
+        "lat": 41.061,
+        "lon": 28.7052
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 41.0619,
+          "lon": 28.70401
+        },
+        "btmRightPoint": {
+          "lat": 41.0601,
+          "lon": 28.70639
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 41.061,
+            "lon": 28.70521
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "xgex4IOv8G2GFGQGXbnbjA",
+      "score": 2.1244060993,
+      "info": "search:ta:792007001639879-TR",
+      "poi": {
+        "name": "İstanbul Kapı",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "municipalitySubdivision": "İznik",
+        "municipality": "Bursa",
+        "municipalitySecondarySubdivision": "Selçuk",
+        "postalCode": "16860",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "Selçuk, 16860İznik, Bursa,",
+        "localName": "İznik"
+      },
+      "position": {
+        "lat": 40.4235,
+        "lon": 29.7192
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 40.4244,
+          "lon": 29.71802
+        },
+        "btmRightPoint": {
+          "lat": 40.4226,
+          "lon": 29.72038
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 40.4235,
+            "lon": 29.71925
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "IaIEe7lBur7pcAqh2AgVaA",
+      "score": 2.1244060993,
+      "info": "search:ta:792009017917693-TR",
+      "poi": {
+        "name": "İstanbul Kapı",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "23",
+        "streetName": "Orhangazi Caddesi",
+        "municipalitySubdivision": "İznik",
+        "municipality": "Bursa",
+        "municipalitySecondarySubdivision": "Mustafa Kemal Paşa",
+        "postalCode": "16860",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "Mustafa Kemal Paşa, Orhangazi Caddesi 23, 16860İznik, Bursa,",
+        "localName": "İznik"
+      },
+      "position": {
+        "lat": 40.436495,
+        "lon": 29.719809
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 40.43739,
+          "lon": 29.71863
+        },
+        "btmRightPoint": {
+          "lat": 40.4356,
+          "lon": 29.72099
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 40.43652,
+            "lon": 29.71992
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "PE0m4yN_lZQ0XrJwpfYhRw",
+      "score": 2.1244060993,
+      "info": "search:ta:792009001267118-TR",
+      "poi": {
+        "name": "İstanbul Akvaryum",
+        "phone": "+90 212 444 97 44",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "url": "www.istanbulakvaryum.com",
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetNumber": "93",
+        "streetName": "Yeşilköy Halkalı Caddesi",
+        "municipalitySubdivision": "Bakırköy",
+        "municipality": "İstanbul",
+        "municipalitySecondarySubdivision": "Şenlikköy",
+        "postalCode": "34153",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "Şenlikköy, Yeşilköy Halkalı Caddesi 93, 34153Bakırköy, İstanbul,",
+        "localName": "Bakırköy"
+      },
+      "position": {
+        "lat": 40.96452,
+        "lon": 28.799917
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 40.96542,
+          "lon": 28.79873
+        },
+        "btmRightPoint": {
+          "lat": 40.96362,
+          "lon": 28.80111
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 40.96486,
+            "lon": 28.80016
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "aehT6FJKxPpPHURY5kSlCg",
+      "score": 2.1244060993,
+      "info": "search:ta:792007001341822-TR",
+      "poi": {
+        "name": "Istanbul Planetarium",
+        "phone": "+90 216 391 89 64",
+        "categorySet": [
+          {
+            "id": 7376006
+          }
+        ],
+        "url": "www.istanbulplanetaryum.com.tr/",
+        "categories": [
+          "important tourist attraction",
+          "planetarium"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "planetarium"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Çinili Mescit Sokak",
+        "municipalitySubdivision": "Üsküdar",
+        "municipality": "İstanbul",
+        "municipalitySecondarySubdivision": "Valide-i Atik",
+        "postalCode": "34664",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "Valide-i Atik, Çinili Mescit Sokak, 34664Üsküdar, İstanbul,",
+        "localName": "Üsküdar"
+      },
+      "position": {
+        "lat": 41.0196,
+        "lon": 29.0293
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 41.0205,
+          "lon": 29.02811
+        },
+        "btmRightPoint": {
+          "lat": 41.0187,
+          "lon": 29.03049
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 41.01962,
+            "lon": 29.02927
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "WOcxZOG1U_cEseJ80oXpVA",
+      "score": 2.1244060993,
+      "info": "search:ta:792009004716679-TR",
+      "poi": {
+        "name": "İstanbul Park",
+        "phone": "+90 216 677 10 10",
+        "categorySet": [
+          {
+            "id": 7376
+          }
+        ],
+        "categories": [
+          "important tourist attraction"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Göçbeyli Bulvarı",
+        "municipalitySubdivision": "Tuzla",
+        "municipality": "İstanbul",
+        "municipalitySecondarySubdivision": "Akfırat",
+        "postalCode": "34959",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "Akfırat, Göçbeyli Bulvarı, 34959Tuzla, İstanbul,",
+        "localName": "Tuzla"
+      },
+      "position": {
+        "lat": 40.95245,
+        "lon": 29.40556
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 40.95464,
+          "lon": 29.40266
+        },
+        "btmRightPoint": {
+          "lat": 40.95026,
+          "lon": 29.40846
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 40.95036,
+            "lon": 29.40643
+          }
+        }
+      ]
+    },
+    {
+      "type": "POI",
+      "id": "7HftXoPrexvpw5brgoMNrg",
+      "score": 2.1244060993,
+      "info": "search:ta:792009004745436-TR",
+      "poi": {
+        "name": "İstanbul Kapısı",
+        "categorySet": [
+          {
+            "id": 7376003
+          }
+        ],
+        "categories": [
+          "important tourist attraction",
+          "monument"
+        ],
+        "classifications": [
+          {
+            "code": "IMPORTANT_TOURIST_ATTRACTION",
+            "names": [
+              {
+                "nameLocale": "en-US",
+                "name": "monument"
+              },
+              {
+                "nameLocale": "en-US",
+                "name": "important tourist attraction"
+              }
+            ]
+          }
+        ]
+      },
+      "address": {
+        "streetName": "Orgeneral Demircioğlu Caddesi",
+        "municipalitySubdivision": "Yakutiye",
+        "municipality": "Erzurum",
+        "municipalitySecondarySubdivision": "Lala Paşa",
+        "postalCode": "25050",
+        "countryCode": "TR",
+        "country": "Türkiye",
+        "countryCodeISO3": "TUR",
+        "freeformAddress": "Lala Paşa, Orgeneral Demircioğlu Caddesi, 25050Yakutiye, Erzurum,",
+        "localName": "Yakutiye"
+      },
+      "position": {
+        "lat": 39.91144,
+        "lon": 41.26265
+      },
+      "viewport": {
+        "topLeftPoint": {
+          "lat": 39.91234,
+          "lon": 41.26148
+        },
+        "btmRightPoint": {
+          "lat": 39.91054,
+          "lon": 41.26382
+        }
+      },
+      "entryPoints": [
+        {
+          "type": "main",
+          "position": {
+            "lat": 39.91156,
+            "lon": 41.26264
+          }
+        }
+      ]
+    }
+  ]
+}
