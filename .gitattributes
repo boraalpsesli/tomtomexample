@@ -1,0 +1,4 @@
+# Force GitHub to recognize Kotlin files
+*.kt linguist-language=Kotlin
+*.java linguist-language=Java
+
